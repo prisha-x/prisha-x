@@ -1,7 +1,7 @@
 # Hi there, I'm Prisha👋
 
-I'm a grade 12 student from Mumbai who gets genuinely curious about 
-how things work — and then builds something to find out.
+I'm a grade 12 student from Mumbai who's curious about 
+how things work - and then builds something to find out.
 
 Right now I'm exploring whether AI can read financial news and extract 
 signals useful enough to inform real trading decisions.
