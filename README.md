@@ -1,18 +1,18 @@
-# Hi there, I'm Prisha👋
+# Hey, I'm Prisha👋
 
-I'm a grade 12 student from Mumbai who's curious about 
-how things work - and then builds something to find out.
+Grade 12, Mumbai. I build at the intersection of AI, 
+quantitative finance, and data systems.
 
-Right now I'm exploring whether AI can read financial news and extract 
-signals useful enough to inform real trading decisions.
+Currently exploring whether NLP and geopolitical intelligence 
+can generate real trading signals - built from scratch, no shortcuts.
 
 ### What I'm building
 
 - **NLP + Finance** — Sentiment-driven trading signals from financial 
   headlines. TF-IDF, multiple ML models, FinBERT comparison, 
-  backtested against real stock data.
-- **IPL Cricket Analytics** — coming soon
-- **GeoTrade** — coming soon
+  backtested against real stock data. - working
+- **Economic Inequality** — Predicting poverty risk using World Bank macroeconomic data - coming soon
+- **GeoTrade** — Converts real-time geopolitical events into actionable trading signals. Built from scratch, no paid APIs - coming soon
 
 ### Stack I work with
 
