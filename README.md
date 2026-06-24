@@ -1,37 +1,10 @@
-# Hey, I'm Prisha👋
+I'm a high schooler from Mumbai who got curious about whether AI can read the financial news and make smarter trades than just holding. This repo is me trying to find out.
 
-Grade 12, Mumbai. I build at the intersection of AI, 
-quantitative finance, and data systems.
+## What I'm building
 
-Currently exploring whether NLP and geopolitical intelligence 
-can generate real trading signals - built from scratch, no shortcuts.
-
-### What I'm building
-
-- **NLP + Finance** — Sentiment-driven trading signals from financial 
-  headlines. TF-IDF, multiple ML models, FinBERT comparison, 
-  backtested against real stock data. - working
-- **Economic Inequality** — Predicting poverty risk using World Bank macroeconomic data - coming soon
+- **NLP + Finance** - Sentiment-driven trading signals from financial headlines. TF-IDF, multiple ML models, FinBERT comparison, backtested against real AAPL data. LinearSVC hits 0.73 weighted F1 (18+ points above VADER baseline). Correlation between sentiment and returns is essentially zero, mostly because the dataset doesn't have real timestamped news.
 - **GeoTrade** — Converts real-time geopolitical events into actionable trading signals. Built from scratch, no paid APIs - coming soon
 
-### Stack I work with
+Grade 12 CBSE, Mumbai, India
 
-Python · Scikit-learn · NLTK · HuggingFace · Pandas · 
-Matplotlib · Streamlit · yfinance
-
-*Grade 12 CBSE · Mumbai, India*
-
-<!--
-**prisha-x/prisha-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prisha-x&show_icons=true&theme=default)
