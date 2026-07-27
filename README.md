@@ -2,7 +2,7 @@ I'm a high schooler from Mumbai who got curious about whether AI can read the fi
 
 ## What I'm building
 
-- **NLP + Finance** - Sentiment-driven trading signals from financial headlines. TF-IDF, multiple ML models, FinBERT comparison, backtested against real AAPL data. LinearSVC hits 0.73 weighted F1 (18+ points above VADER baseline). Correlation between sentiment and returns is essentially zero, mostly because the dataset doesn't have real timestamped news.
+- **NLP + Finance** — Sentiment-driven trading signals from financial headlines. TF-IDF, multiple ML models, FinBERT comparison, backtested against real AAPL data. LinearSVC hits 0.73 weighted F1 (18+ points above VADER baseline). Correlation between sentiment and returns is essentially zero, mostly because the dataset doesn't have real timestamped news.
 - **GeoTrade** — Converts real-time geopolitical events into actionable trading signals. Built from scratch, no paid APIs
 
 Grade 12 CBSE, Mumbai, India
